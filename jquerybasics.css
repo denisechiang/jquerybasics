@@ -1,0 +1,25 @@
+body{
+	font-family: Helvetica;
+}
+.hen {
+	font-family: Courier;
+	color: orange;
+	font-weight: bold;
+}
+.slidedown, .slideup, .fadein, .fadeout, .show, .focus, .addclass{
+	display: inline-block;
+}
+.after, .before, .html {
+	display: inline-block;
+}
+
+.text, .attr {
+	display: inline-block;
+}
+
+.val, .append, .slidetoggle, .toggle {
+	display: inline-block;
+}
+.html, .text, .val, .append {
+	vertical-align: top;
+}
